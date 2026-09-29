@@ -4,6 +4,6 @@
   "description": "Example showing how to submit replay jobs to the Grat API.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node init && node index.js"
   }
 }
