@@ -4,7 +4,7 @@
   "description": "Example showing how to parse the core TOML error taxonomy into JSON.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node init && node index.js",
     "test": "node --test"
   },
   "dependencies": {
